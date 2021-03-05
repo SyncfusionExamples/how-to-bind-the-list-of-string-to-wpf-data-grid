@@ -2,9 +2,9 @@
 
 ## About the sample
 
-This example illustrates how to bind the list of string to WPF DataGrid
+This sample illustrates how to bind the list of string to [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
 
-By default, SfDataGrid is bound to a collection with a class type. You can bind a list of string as an ItemsSource of SfDataGrid can be achieved by using GridTemplateColumn.
+[WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid) is bound to a collection with a class type. You can bind a list of string as an ItemsSource of SfDataGrid can be achieved by using [GridTemplateColumn](https://help.syncfusion.com/cr/cref_files/xamarin/Syncfusion.SfDataGrid.XForms~Syncfusion.SfDataGrid.XForms.GridTemplateColumn.html).
 
 ```c#
 public class ViewModel
