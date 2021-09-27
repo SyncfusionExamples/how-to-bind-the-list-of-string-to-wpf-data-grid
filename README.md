@@ -46,5 +46,7 @@ public class ViewModel
 </Grid>
 ```
 
+KB article - [How to bind the list of string to WPF DataGrid(SfDataGrid)?](https://www.syncfusion.com/kb/11357/how-to-bind-the-list-of-string-to-wpf-datagrid-sfdatagrid)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
