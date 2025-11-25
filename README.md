@@ -1,10 +1,8 @@
-# How to bind the list of string to WPF DataGrid(SfDataGrid)?
-
-## About the sample
+# How to Bind the List of String to WPF DataGrid?
 
 This sample illustrates how to bind the list of string to [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
 
-[WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid) is bound to a collection with a class type. You can bind a list of string as an ItemsSource of SfDataGrid can be achieved by using [GridTemplateColumn](https://help.syncfusion.com/cr/cref_files/xamarin/Syncfusion.SfDataGrid.XForms~Syncfusion.SfDataGrid.XForms.GridTemplateColumn.html).
+`DataGrid` is bound to a collection with a class type. You can bind a list of string as an ItemsSource of `DataGrid` can be achieved by using [GridTemplateColumn](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.GridTemplateColumn.html).
 
 ```c#
 public class ViewModel
@@ -46,7 +44,4 @@ public class ViewModel
 </Grid>
 ```
 
-KB article - [How to bind the list of string to WPF DataGrid(SfDataGrid)?](https://www.syncfusion.com/kb/11357/how-to-bind-the-list-of-string-to-wpf-datagrid-sfdatagrid)
-
-## Requirements to run the demo
-Visual Studio 2015 and above versions
+![DataGrid bound with List](DataGridLoadedWithList.png)
